@@ -2,7 +2,7 @@
 /**
  * CSIS 2410
  * @author Nathan Clawson 
- * @author Amanda Rabideau
+ * @author Amanda
  * 
  * 
  */
